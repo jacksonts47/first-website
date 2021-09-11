@@ -33,3 +33,6 @@ div li, .favsongs, th, .topsongs {
 th, td {
     color: blue;
 }
+div p {
+    font-size: larger;
+}
