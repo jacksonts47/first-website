@@ -1,0 +1,35 @@
+li {
+    color: rgb(204, 33, 33); 
+}
+#last_li {
+    color: black;
+}
+h1 {
+    color: blue;
+    background-color: green;
+}
+.menu {
+    background-color: purple;
+    color: white;
+} 
+ul li {
+    color: blue;
+}
+ul .select:hover {
+    background-color: red;
+    color: white; 
+}
+img {
+    width: auto;
+    height: 450px;
+}
+.links {
+    font-size: small;
+    color: rgb(0, 0, 0);
+}
+div li, .favsongs, th, .topsongs {
+    font-size: larger;
+}
+th, td {
+    color: blue;
+}
