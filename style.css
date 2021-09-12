@@ -16,7 +16,7 @@ ul li {
     color: blue;
 }
 ul .select:hover {
-    background-color: red;
+    background-color: green;
     color: white; 
 }
 img {
@@ -27,7 +27,7 @@ img {
     font-size: small;
     color: rgb(0, 0, 0);
 }
-div li, .favsongs, th, .topsongs {
+div li, #favsongs, th, .topsongs {
     font-size: larger;
 }
 th, td {
@@ -41,4 +41,12 @@ div p {
 }
 div .introtext {
     font-size: large;
+}
+a {
+    color: pink;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: gray;
+    }
 }
