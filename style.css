@@ -43,7 +43,7 @@ div .introtext {
     font-size: large;
 }
 a {
-    color: pink;
+    color: hotpink;
 }
 @media only screen and (max-width: 600px) {
     body {
